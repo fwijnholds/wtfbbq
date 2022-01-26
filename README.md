@@ -1,4 +1,6 @@
 # wtfbbq
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/9428f09b-3452-45d3-8331-52f475f0582f.svg?orgId=603790862731)](https://app.soluble.cloud/repos/details/github.com/fwijnholds/wtfbbq?orgId=603790862731)  
 What the ... goes on in and around the friendly BBQ?
 
 This project is about getting crucial data of the environment in and  around the BBQ as well as the condition of the meat.
